@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MDTheme" parent="Theme.MaterialComponents.Light.DarkActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#6200EA</item>
+        <item name="colorPrimaryDark">#42039A</item>
+        <item name="colorAccent">@color/secondaryDarkColor</item>
+        <item name="buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="colorButtonNormal">#AA00FF</item>
+        <item name="colorControlHighlight">#AA00FF</item>
+    </style>
+
+</resources>
