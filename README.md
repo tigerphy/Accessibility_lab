@@ -1,3 +1,3 @@
 # Accessibility_lab
 
-![Screenshot_1600774156](https://user-images.githubusercontent.com/33349939/93880544-55c6f000-fce6-11ea-8449-243b3f6d8e87.png)
+![Screenshot_1600777031](https://user-images.githubusercontent.com/33349939/93880881-cf5ede00-fce6-11ea-8f9f-f395c305caa6.png)
